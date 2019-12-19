@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page18.html",
+    "currentPage": "Starwars.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12467,9 +12467,9 @@
         }
       ]
     },
-    "page18.html": {
+    "Starwars.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Hier vind je alles met het thema Star Wars ",
         "title": "Feest Diva | Star Wars",
         "order": 11
       },
