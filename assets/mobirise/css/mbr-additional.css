@@ -10433,13 +10433,17 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #465052 !important;
 }
-.cid-rDLIkWVmKJ {
+.cid-rL4SMsWSpR {
   padding-top: 90px;
-  padding-bottom: 15px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-7-1920x1280.jpg");
 }
-.cid-rDLIkWVmKJ P {
-  color: #767676;
+.cid-rL4SMsWSpR H3 {
+  color: #232323;
+}
+.cid-rL4SMsWSpR .mbr-text,
+.cid-rL4SMsWSpR .mbr-section-btn {
+  color: #232323;
 }
 .cid-rDLIHXDVWR {
   padding-top: 90px;
@@ -10501,7 +10505,7 @@ body {
 }
 .cid-rDLJM4cgz8 {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #cccccc;
 }
 .cid-rDLJM4cgz8 .title {
@@ -10554,6 +10558,64 @@ body {
     padding-bottom: 2rem !important;
   }
   .cid-rDLJM4cgz8 .wrapper {
+    padding-top: 1rem;
+  }
+}
+.cid-rL4THDiv5U {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+}
+.cid-rL4THDiv5U .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rL4THDiv5U h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rL4THDiv5U .bottom-line p {
+  color: #767676;
+}
+.cid-rL4THDiv5U .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rL4THDiv5U .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-rL4THDiv5U .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-rL4THDiv5U .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rL4THDiv5U .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rL4THDiv5U .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-rL4THDiv5U .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rL4THDiv5U .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-rL4THDiv5U .wrapper {
     padding-top: 1rem;
   }
 }
